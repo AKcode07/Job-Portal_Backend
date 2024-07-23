@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-        <h1 className='text-red-500'>Let's Buils Job Portal</h1>
+        <h1 className='text-red-500'>Let's Build Job Portal</h1>
     </>
   )
 }
